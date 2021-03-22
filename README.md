@@ -77,4 +77,3 @@ Step 7: Go to Public IP generated Clusters > <cluster-name> > Tasks > Task Detai
 6. Observe CPU utilization periodically to maximize compute percentage usage (in this case container)
 7. Add SNS notifications on failure of API call frm Cloudwatch to decrease downtime and debug
 
-
