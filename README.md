@@ -3,7 +3,7 @@ This app converts decimal numbers to roman numerals.
 
 # Requirements
 
-Python 3.8.5+, pipenv
+Python 3, pip 3, Docker daemon
 
 # Local
 ## Installation and How to Run
