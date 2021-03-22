@@ -1,4 +1,4 @@
-# Roman Numeral Conversion App
+# Convert Integer to Roman numeral
 This app converts decimal numbers to roman numerals.
 
 # Requirements
