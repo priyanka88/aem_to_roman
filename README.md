@@ -1,5 +1,5 @@
 # Convert Integer to Roman numeral
-This app converts decimal numbers to roman numerals.
+This app converts integers to roman numerals.
 
 # Requirements
 
